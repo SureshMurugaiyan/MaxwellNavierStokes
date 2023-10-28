@@ -59,3 +59,39 @@ Solves Maxwell Navier Stokes Equation System for single and Two Phase Flows
   <em>Figure 8: Contour plot of vertical velocity (Uz) for the lid-driven cavity.</em>
 </p>
 
+#### Single Phase MNS Setup
+<p align="center">
+  <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/7_SINGLE_PHASE_MNS_SETUP.png" width="480">
+  <br>
+  <em>Figure 9: Setup for Single Phase Maxwell Navier Stokes equations for electrically driven flow.</em>
+</p>
+
+#### Single Phase MNS Validation
+<p align="center">
+  <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/8_SINGLE_PHASE_MNS_VALIDATION.png" width="480">
+  <br>
+  <em>Figure 10: Validation results for electrically driven flow using Maxwell Navier Stokes equations.</em>
+</p>
+
+#### Single Phase MNS Angular Momentum
+<p align="center">
+  <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/9_SINGLE_PHASE_MNS_ANGULARMOMENTUM.png" width="480">
+  <br>
+  <em>Figure 11: Angular momentum distribution for electrically driven flow using Maxwell Navier Stokes equations.</em>
+</p>
+
+#### Single Phase MNS Velocity
+<p align="center">
+  <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/10_SINGLE_PHASE_MNS_VELOCITY.png" width="480">
+  <br>
+  <em>Figure 12: Velocity distribution for electrically driven flow using Maxwell Navier Stokes equations.</em>
+</p>
+
+#### Single Phase MNS Magnetic Field
+<p align="center">
+  <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/11_SINGLE_PHASE_MNS_MAGNETIC_FIELD.png" width="480">
+  <br>
+  <em>Figure 13: Magnetic field distribution for electrically driven flow using Maxwell Navier Stokes equations.</em>
+</p>
+
+
