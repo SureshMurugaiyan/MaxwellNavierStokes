@@ -37,4 +37,24 @@ Solves Maxwell Navier Stokes Equation System for single and Two Phase Flows
   <br>
   <em>Figure 5: Magnetic field distribution for the radial current carrying Wire.</em>
 </p>
+#### Lid-Driven Cavity Validation
+<p align="center">
+  <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/5_LID_DRIVEN_CAVITY_VALIDATION.png" width="480">
+  <br>
+  <em>Figure 6: Validation results for the lid-driven cavity with Navier-Stokes equations.</em>
+</p>
+
+#### Lid-Driven Cavity Horizontal Velocity Contour
+<p align="center">
+  <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/6_LID_DRIVEN_CAVITY_UX_VELOCITY.png" width="480">
+  <br>
+  <em>Figure 7: Contour plot of horizontal velocity (Ux) for the lid-driven cavity.</em>
+</p>
+
+#### Lid-Driven Cavity Vertical Velocity Contour
+<p align="center">
+  <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/6_LID_DRIVEN_CAVITY_UY_VELOCITY.png" width="480">
+  <br>
+  <em>Figure 8: Contour plot of vertical velocity (Uz) for the lid-driven cavity.</em>
+</p>
 
