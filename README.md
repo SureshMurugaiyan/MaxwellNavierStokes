@@ -7,7 +7,7 @@ Solves Maxwell Navier Stokes Equation System for single and Two Phase Flows
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/0_Wire_Mesh.png" width="480">
   <br>
-  <em>Figure 1: Axisymmetric computational domain used for simulations.</em>
+  <em>Figure 1: Wedge mesh used for Axisymmetric simulations.</em>
 </p>
 
 #### Axial Current Carrying Wire Validation
