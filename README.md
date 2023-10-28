@@ -37,6 +37,7 @@ Solves Maxwell Navier Stokes Equation System for single and Two Phase Flows
   <br>
   <em>Figure 5: Magnetic field distribution for the radial current carrying Wire.</em>
 </p>
+
 #### Lid-Driven Cavity Validation
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/5_LID_DRIVEN_CAVITY_VALIDATION.png" width="480">
