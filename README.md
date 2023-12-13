@@ -59,6 +59,15 @@ Solves Maxwell Navier Stokes Equation System for single and Two Phase Flows
   <em>Figure 8: Contour plot of vertical velocity (Uz) for the lid-driven cavity.</em>
 </p>
 
+#### Two-Phase Lid-Driven Cavity Free Surface EVolution
+<p align="center">
+  <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/1_VOFevolution_t0.png" width="480">
+  <br>
+  <em>Figure 6: Free surface evolution for two-phase lid-driven cavity.</em>
+</p>
+
+
+
 #### Single Phase MNS Setup
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/7_SINGLE_PHASE_MNS_SETUP.png" width="480">
