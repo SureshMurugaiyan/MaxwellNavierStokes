@@ -153,19 +153,19 @@ Solves Maxwell Navier Stokes Equation System for single and Two Phase Flows
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/1_FreeSurface_t0.png" width="480">
   <br>
-  <em>Figure 22: Free surface evolution with Two Phase Maxwell Navier Stokes equations.</em>
+  <em>Figure 22: Free surface evolution with Two Phase Maxwell Navier Stokes equations (t=0).</em>
 </p>
 
 
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/1_FreeSurface_t50.png" width="480">
   <br>
-  <em>Figure 23: Free surface evolution with Two Phase Maxwell Navier Stokes equations.</em>
+  <em>Figure 23: Free surface evolution with Two Phase Maxwell Navier Stokes equations (t=50).</em>
 </p>
 
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/1_FreeSurface_t500.png" width="480">
   <br>
-  <em>Figure 24: Free surface evolution with Two Phase Maxwell Navier Stokes equations.</em>
+  <em>Figure 24: Free surface evolution with Two Phase Maxwell Navier Stokes equations (t=500).</em>
 </p>
 
