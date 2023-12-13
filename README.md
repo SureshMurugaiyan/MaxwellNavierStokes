@@ -63,19 +63,19 @@ Solves Maxwell Navier Stokes Equation System for single and Two Phase Flows
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/1_VOFevolution_t0.png" width="480">
   <br>
-  <em>Figure 6: Free surface evolution for two-phase lid-driven cavity (t = 0).</em>
+  <em>Figure 9: Free surface evolution for two-phase lid-driven cavity (t = 0).</em>
 </p>
 
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/1_VOFevolution_t0p5.png" width="480">
   <br>
-  <em>Figure 6: Free surface evolution for two-phase lid-driven cavity  (t = 0.5).</em>
+  <em>Figure 10: Free surface evolution for two-phase lid-driven cavity  (t = 0.5).</em>
 </p>
 
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/1_VOFevolution_t0p10.png" width="480">
   <br>
-  <em>Figure 6: Free surface evolution for two-phase lid-driven cavity  (t = 1.0).</em>
+  <em>Figure 11: Free surface evolution for two-phase lid-driven cavity  (t = 1.0).</em>
 </p>
 
 
@@ -83,14 +83,14 @@ Solves Maxwell Navier Stokes Equation System for single and Two Phase Flows
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/7_SINGLE_PHASE_MNS_SETUP.png" width="480">
   <br>
-  <em>Figure 9: Setup for Single Phase Maxwell Navier Stokes equations for electrically driven flow.</em>
+  <em>Figure 13: Setup for Single Phase Maxwell Navier Stokes equations for electrically driven flow.</em>
 </p>
 
 #### Single Phase MNS Validation
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/8_SINGLE_PHASE_MNS_VALIDATION.png" width="480">
   <br>
-  <em>Figure 10: Validation results for electrically driven flow using Maxwell Navier Stokes equations.</em>
+  <em>Figure 14: Validation results for electrically driven flow using Maxwell Navier Stokes equations.</em>
 </p>
 
 #### Single Phase MNS Angular Momentum
@@ -104,68 +104,68 @@ Solves Maxwell Navier Stokes Equation System for single and Two Phase Flows
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/10_SINGLE_PHASE_MNS_VELOCITY.png" width="480">
   <br>
-  <em>Figure 12: Velocity distribution for electrically driven flow using Maxwell Navier Stokes equations.</em>
+  <em>Figure 15: Velocity distribution for electrically driven flow using Maxwell Navier Stokes equations.</em>
 </p>
 
 #### Single Phase MNS Magnetic Field
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/11_SINGLE_PHASE_MNS_MAGNETIC_FIELD.png" width="480">
   <br>
-  <em>Figure 13: Magnetic field distribution for electrically driven flow using Maxwell Navier Stokes equations.</em>
+  <em>Figure 16: Magnetic field distribution for electrically driven flow using Maxwell Navier Stokes equations.</em>
 </p>
 
 #### Two Phase MNS Validation
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/13_VALIDATION_TMNS.png" width="480">
   <br>
-  <em>Figure 14: Validation results for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
+  <em>Figure 17: Validation results for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
 </p>
 
 #### Two Phase MNS Grid Independence
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/14_GRIDINDEPENDENCE_TMNS.png" width="480">
   <br>
-  <em>Figure 15: Grid independence study for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
+  <em>Figure 18: Grid independence study for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
 </p>
 
 #### Two Phase MNS Angular Momentum
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/15_ANGULAR_MOMENTUM_TMNS.png" width="480">
   <br>
-  <em>Figure 16: Angular momentum distribution for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
+  <em>Figure 19: Angular momentum distribution for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
 </p>
 
 #### Two Phase MNS Velocity
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/16_VELOCITY_TMNS.png" width="480">
   <br>
-  <em>Figure 17: Velocity distribution for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
+  <em>Figure 20: Velocity distribution for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
 </p>
 
 #### Two Phase MNS Magnetic Field
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/17_MAGNETIC_FIELD_TMNS.png" width="480">
   <br>
-  <em>Figure 18: Magnetic field distribution for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
+  <em>Figure 21: Magnetic field distribution for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
 </p>
 
 #### Two Phase MNS With Free Surface Deformation
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/1_FreeSurface_t0.png" width="480">
   <br>
-  <em>Figure 18: Magnetic field distribution for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
+  <em>Figure 22: Magnetic field distribution for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
 </p>
 
 
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/1_FreeSurface_t50.png" width="480">
   <br>
-  <em>Figure 18: Magnetic field distribution for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
+  <em>Figure 23: Magnetic field distribution for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
 </p>
 
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/1_FreeSurface_t500.png" width="480">
   <br>
-  <em>Figure 18: Magnetic field distribution for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
+  <em>Figure 24: Magnetic field distribution for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
 </p>
 
