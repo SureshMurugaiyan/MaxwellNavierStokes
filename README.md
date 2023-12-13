@@ -149,5 +149,23 @@ Solves Maxwell Navier Stokes Equation System for single and Two Phase Flows
   <em>Figure 18: Magnetic field distribution for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
 </p>
 
+#### Two Phase MNS With Free Surface Deformation
+<p align="center">
+  <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/1_FreeSurface_t0.png" width="480">
+  <br>
+  <em>Figure 18: Magnetic field distribution for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
+</p>
 
+
+<p align="center">
+  <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/1_FreeSurface_t50.png" width="480">
+  <br>
+  <em>Figure 18: Magnetic field distribution for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/1_FreeSurface_t500.png" width="480">
+  <br>
+  <em>Figure 18: Magnetic field distribution for electrically driven flow using Two Phase Maxwell Navier Stokes equations.</em>
+</p>
 
