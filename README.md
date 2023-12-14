@@ -169,3 +169,27 @@ Solves Maxwell Navier Stokes Equation System for single and Two Phase Flows
   <em>Figure 24: Free surface evolution with Two Phase Maxwell Navier Stokes equations (t=500).</em>
 </p>
 
+<p align="center">
+  <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/2_CurrentDensity_t0.png" width="480">
+  <br>
+  <em>Figure 25: Current density distribution due to Free surface evolution (t=0).</em>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/2_CurrentDensity_t50.png" width="480">
+  <br>
+  <em>Figure 26: Current density distribution due to Free surface evolution (t=50).</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/2_CurrentDensity_t500.png" width="480">
+  <br>
+  <em>Figure 27: Current density distribution due to Free surface evolution (t=500).</em>
+</p>
+
+
+
+
+
+
