@@ -81,7 +81,7 @@ Solves Maxwell Navier Stokes Equation System for single and Two Phase Flows
 <p align="center">
   <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/F_GridIndependence_TNS.png" width="480">
   <br>
-  <em>Figure 12: Free surface evolution for two-phase lid-driven cavity  (t = 1.0).</em>
+  <em>Figure 12: Comparision with benchmark solution  (t = 1.0).</em>
 </p>
 
 #### Single Phase MNS Setup
