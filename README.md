@@ -189,6 +189,24 @@ Solves Maxwell Navier Stokes Equation System for single and Two Phase Flows
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/4_MagneticField_t0.png" width="480">
+  <br>
+  <em>Figure 28: Magnetic field distribution due to Free surface evolution (t=0).</em>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/4_MagneticField_t50.png" width="480">
+  <br>
+  <em>Figure 29: Magnetic field distribution due to Free surface evolution (t=50).</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/SureshMurugaiyan/MaxwellNavierStokes/blob/main/sampleresults/4_MagneticField_t500.png" width="480">
+  <br>
+  <em>Figure 30: Magnetic field distribution due to Free surface evolution (t=500).</em>
+</p>
 
 
 
